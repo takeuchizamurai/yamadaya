@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# サイトマップの場所を明示（ドメインが決まったら差し替え）
+Sitemap: https://yamadaya.creepykaichi.workers.dev//sitemap.xml
